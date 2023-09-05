@@ -4,3 +4,4 @@
 - Polynôme d'interpolation (Newton & Lagrange)
 - Courbes de Bézier
 - Coubes B-Splines
+- Interpolation numérique
